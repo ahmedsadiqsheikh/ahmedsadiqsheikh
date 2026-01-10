@@ -1,22 +1,23 @@
 ![logo](https://github.com/ahmedsadiqsheikh/ahmedsadiqsheikh/blob/main/images%20(3).jpg)
-# 💫 About Me:
-# Hi there, I'm Ahmed 👋<br><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Developer Student from Karachi, Pakistan.<br><br>🌱 Currently learning **HTML, CSS, Bootstrap, JavaScript** and building real projects.  <br>🚀 Passionate about creating responsive and beautiful websites.  <br>🎯 Goal: Become a professional Frontend Developer in 2026!<br><br>### 🛠️ Tech Stack<br>![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)<br><br>### 🔥 My Projects<br>- 🎨 **Paint Company Website** - Full responsive e-project with gallery, contact form & Bootstrap  <br>  Live: https://ahmedsadiqsheikh.github.io/1st_eproject/  <br>  Repo: https://github.com/ahmedsadiqsheikh/1st_eproject<br><br>( aur projects add karte rehna jaise jaise banta jayega )<br><br>### 📊 GitHub Stats<br>![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsadiqsheikh&show_icons=true&theme=radical)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsadiqsheikh&layout=compact&theme=radical)<br><br>### 📫 Connect with me<br>- LinkedIn: (agar hai toh link daal)<br>- Email: ahmedsadiqsheikh@example.com<br><br>Thanks for visiting! 🚀
+<h1 align="center">Hi 👋, I'm Ahmed Sheikh</h1>
+<h3 align="center">I Am a Passionate Programmer From Pakistan</h3>
+<img align="right" alt="Programming" width="400px" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadi252&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhadi252" /> </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100092960017436) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmed_sadiq56/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-sheikh-249216371/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedsadiq2505b@aptechsite.net) 
+- 👨‍💻 All of my own projects are available at [github.com/abdulhadi252](github.com/abdulhadi252)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= AhmedSheikh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= AhmedSheikh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= AhmedSheikh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 📫 How to reach me **ahmedsadiq2505b@aptechsite.net**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username= AhmedSheikh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id= AhmedSheikh&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhadi252&show_icons=true&locale=en&layout=compact" alt="abdulhadi252" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhadi252&show_icons=true&locale=en" alt="abdulhadi252" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadi252&" alt="abdulhadi252" /></p>
