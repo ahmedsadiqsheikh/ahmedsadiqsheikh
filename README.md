@@ -1,7 +1,7 @@
 ![logo](https://github.com/ahmedsadiqsheikh/ahmedsadiqsheikh/blob/main/images%20(3).jpg)
 <h1 align="center">Hi 👋, I'm Ahmed Sheikh</h1>
 <h3 align="center">I Am a Passionate Programmer From Pakistan</h3>
-<img align="right" alt="Programming" width="400px" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<img align="right" alt="Programming" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUNSzPxe2kJ1-4e_tvJadE8OWtkekzKbkbg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadi252&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhadi252" /> </p>
 
