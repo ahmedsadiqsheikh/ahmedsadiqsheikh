@@ -1,4 +1,4 @@
-![logo](https://github.com/ahmedsadiqsheikh/ahmedsadiqsheikh/blob/main/images%20(3).jpg)
+![logo](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 <h1 align="center">Hi 👋, I'm Ahmed Sheikh</h1>
 <h3 align="center">I Am a Passionate Programmer From Pakistan</h3>
 <img align="right" alt="Programming" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUNSzPxe2kJ1-4e_tvJadE8OWtkekzKbkbg&s">
