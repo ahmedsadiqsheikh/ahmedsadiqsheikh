@@ -1,4 +1,4 @@
-![logo](https://chatgpt.com/backend-api/estuary/content?id=file_00000000cdbc7207ab794e4c786937e2&ts=491322&p=fs&cid=1&sig=1634643dbc35192d5780a63edcd7f792e26b687a1f1db3b0c88916251b2efcf9&v=0)
+![logo](https://fs.buttercms.com/resize=width:940/I351RMgSjC6YAj1Ra8pE)
 <h1 align="center">Hi 👋, I'm Ahmed Sheikh</h1>
 <h3 align="center">I Am a Passionate Programmer From Pakistan</h3>
 <img align="right" alt="Programming" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUNSzPxe2kJ1-4e_tvJadE8OWtkekzKbkbg&s">
