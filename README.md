@@ -1,7 +1,7 @@
 ![logo](https://fs.buttercms.com/resize=width:940/I351RMgSjC6YAj1Ra8pE)
 <h1 align="center">Hi 👋, I'm Ahmed Sheikh</h1>
 <h3 align="center">I Am a Passionate Programmer From Pakistan</h3>
-<img align="right" alt="Programming" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUNSzPxe2kJ1-4e_tvJadE8OWtkekzKbkbg&s">
+<img align="right" alt="Programming" width="400px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadi252&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhadi252" /> </p>
 - 👨‍💻 All of my own projects are available at [github.com/abdulhadi252](github.com/abdulhadi252)
 - 📫 How to reach me **ahmedsadiq2505b@aptechsite.net**
