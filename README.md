@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,0,24&height=200&section=header&text=Ahmed%20Sheikh&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=⚡%20Web%20Developer%20·%20Problem%20Solver%20·%20Karachi%2C%20Pakistan%20🇵🇰&descAlignY=78&descSize=14" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003320,100:00ff88&height=200&section=header&text=Ahmed%20Sheikh&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=⚡%20Web%20Developer%20·%20Problem%20Solver%20·%20Karachi%2C%20Pakistan%20🇵🇰&descAlignY=68&descSize=15&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=🔥+Passionate+Programmer+from+Pakistan+🇵🇰;💻+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Bootstrap;🚀+Turning+Coffee+into+Code+Every+Day;🧠+Problem+Solver+%7C+Builder+%7C+Innovator;⚡+Leveling+Up+—+Always+Growing!" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=🔥+Passionate+Programmer+from+Pakistan+🇵🇰;💻+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Bootstrap;🚀+Turning+Coffee+into+Code+Every+Day;🧠+Problem+Solver+%7C+Builder+%7C+Innovator;⚡+Always+Learning.+Always+Growing!)](https://github.com/ahmedsadiqsheikh)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedsadiqsheikh&label=👁️+PROFILE+VIEWS&color=00ff88&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedsadiqsheikh&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/ahmedsadiqsheikh?label=FOLLOWERS&style=for-the-badge&color=00ff88&logo=github)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-Building%20Something%20Great-00ff88?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-Always%20Building-00ff88?style=for-the-badge&logo=statuspage&logoColor=white)
 
 </div>
 
@@ -27,7 +27,7 @@ class AhmedSheikh extends Developer {
     this.location   = "Karachi, Pakistan 🇵🇰";
     this.education  = "Computer Science @ Aptech";
     this.contact    = "ahmedsadiq2505b@aptechsite.net";
-    this.available  = true;  // Always open to cool projects!
+    this.available  = true;  // Open to cool projects!
   }
 
   get skills() {
@@ -51,16 +51,16 @@ me.start(); // always running...
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://fs.buttercms.com/resize=width:940/I351RMgSjC6YAj1Ra8pE" width="200px" style="border-radius:16px; margin-left:24px;"/>
+<img align="right" src="https://fs.buttercms.com/resize=width:940/I351RMgSjC6YAj1Ra8pE" width="190px"/>
 
-I'm **Ahmed Sadiq Sheikh** — a self-driven **Web Developer** from **Karachi, Pakistan** who genuinely loves the craft of building things on the web. I don't just write code — I engineer digital experiences.
+I'm **Ahmed Sadiq Sheikh** — a self-driven **Web Developer** from **Karachi, Pakistan** who genuinely loves building things on the web.
 
-Every blank screen is an opportunity. Every bug is a puzzle waiting to be cracked.
+I don't just write code — I craft digital experiences that actually work.
 
-- 🔭 &nbsp;Currently working on **awesome web projects**
+- 🔭 &nbsp;Working on **awesome web projects**
 - 🌱 &nbsp;Leveling up in **modern JavaScript & web tech**
 - 🏫 &nbsp;Studying **Computer Science @ Aptech**
-- 📫 &nbsp;Reach me → **ahmedsadiq2505b@aptechsite.net**
+- 📫 &nbsp;**ahmedsadiq2505b@aptechsite.net**
 - ⚡ &nbsp;Fun fact: **My bugs have bugs — I love fixing both!**
 - 🎯 &nbsp;Goal: **Build things that actually matter**
 
@@ -72,31 +72,20 @@ Every blank screen is an opportunity. Every bug is a puzzle waiting to be cracke
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**🎨 Frontend**
+### ⚙️ Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
-
-</td>
-<td align="center">
-
-**⚙️ Backend & DB**
-
-<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
-
-</td>
-<td align="center">
-
-**🛠 Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</td>
-</tr>
-</table>
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -106,33 +95,33 @@ Every blank screen is an opportunity. Every bug is a puzzle waiting to be cracke
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ahmedsadiqsheikh&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmedsadiqsheikh&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
 &nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsadiqsheikh&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsadiqsheikh&theme=merko&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsadiqsheikh&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" width="38%"/>
-
-</div>
-
----
-
-## 🏆 Hall of Fame
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedsadiqsheikh&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsadiqsheikh&layout=compact&theme=merko&hide_border=true&langs_count=8" width="40%"/>
 
 </div>
 
 ---
 
-## 📡 Live Contribution Map
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsadiqsheikh&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820&hide_border=true&custom_title=Ahmed's%20Contribution%20Timeline" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedsadiqsheikh&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsadiqsheikh&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -143,38 +132,38 @@ Every blank screen is an opportunity. Every bug is a puzzle waiting to be cracke
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedsadiqsheikh/ahmedsadiqsheikh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedsadiqsheikh/ahmedsadiqsheikh/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ahmedsadiqsheikh/ahmedsadiqsheikh/output/github-snake.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedsadiqsheikh/ahmedsadiqsheikh/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedsadiqsheikh/ahmedsadiqsheikh/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedsadiqsheikh/ahmedsadiqsheikh/output/github-snake.svg" width="90%"/>
 </picture>
 
 </div>
 
 ---
 
-## 💬 Quote of the Day
+## 💬 Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
 ---
 
-## 🤝 Find Me Online
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40ahmedsadiqsheikh-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0d1117&color=00ff8830)](https://github.com/ahmedsadiqsheikh)
+[![GitHub](https://img.shields.io/badge/GitHub-ahmedsadiqsheikh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedsadiqsheikh)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello!-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117&color=00ff8830)](mailto:ahmedsadiq2505b@aptechsite.net)
+[![Email](https://img.shields.io/badge/Email-ahmedsadiq2505b-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsadiq2505b@aptechsite.net)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117&color=00ff8830)](https://linkedin.com/in/ahmedsadiqsheikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsadiqsheikh)
 
 <br/>
 
-> ⭐ **If my projects help you — drop a star. It fuels the grind!** ⭐
+> ⭐ **If my projects helped you — drop a star. It fuels the grind!** ⭐
 
 </div>
 
@@ -182,14 +171,14 @@ Every blank screen is an opportunity. Every bug is a puzzle waiting to be cracke
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,0,24&height=100&section=footer" width="100%"/>
-
-<img src="https://fs.buttercms.com/resize=width:940/I351RMgSjC6YAj1Ra8pE" width="80px" style="border-radius:50%; border:2px solid #00ff88"/>
+<img src="https://fs.buttercms.com/resize=width:940/I351RMgSjC6YAj1Ra8pE" width="75px" style="border-radius:50%"/>
 
 <br/>
 
-**Ahmed Sadiq Sheikh** — Developer by passion. Problem-solver by nature.
+**Ahmed Sadiq Sheikh** · Developer by passion · Problem-solver by nature
 
-*Karachi, Pakistan 🇵🇰 &nbsp;·&nbsp; Made with 💻 + ☕ + ❤️*
+*Karachi, Pakistan 🇵🇰 · Made with 💻 + ☕ + ❤️*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003320,100:0d1117&height=100&section=footer"/>
 
 </div>
