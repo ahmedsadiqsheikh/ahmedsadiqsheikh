@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003320,100:00ff88&height=200&section=header&text=Ahmed%20Sheikh&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=⚡%20Web%20Developer%20·%20Problem%20Solver%20·%20Karachi%2C%20Pakistan%20🇵🇰&descAlignY=68&descSize=15&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d1a,70:00a854,100:0d1117&height=220&section=header&text=Ahmed%20Sheikh&fontSize=60&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=⚡%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Karachi%2C%20Pakistan%20🇵🇰&descAlignY=65&descSize=16&descAlign=50&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=🔥+Passionate+Programmer+from+Pakistan+🇵🇰;💻+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Bootstrap;🚀+Turning+Coffee+into+Code+Every+Day;🧠+Problem+Solver+%7C+Builder+%7C+Innovator;⚡+Always+Learning.+Always+Growing!)](https://github.com/ahmedsadiqsheikh)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=🔥+Passionate+Programmer+from+Pakistan+🇵🇰;💻+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Bootstrap;🚀+Turning+Coffee+into+Code+Every+Day!;🧠+Builder+%7C+Problem+Solver+%7C+Innovator;⚡+Always+Learning.+Always+Growing!)](https://github.com/ahmedsadiqsheikh)
 
 <br/>
 
@@ -10,7 +10,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/ahmedsadiqsheikh?label=FOLLOWERS&style=for-the-badge&color=00ff88&logo=github)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-Always%20Building-00ff88?style=for-the-badge&logo=statuspage&logoColor=white)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO-Work%20%26%20Collab-00ff88?style=for-the-badge&logo=handshake&logoColor=white)
 
 </div>
 
@@ -27,7 +27,7 @@ class AhmedSheikh extends Developer {
     this.location   = "Karachi, Pakistan 🇵🇰";
     this.education  = "Computer Science @ Aptech";
     this.contact    = "ahmedsadiq2505b@aptechsite.net";
-    this.available  = true;  // Open to cool projects!
+    this.available  = true;   // Open to cool projects!
   }
 
   get skills() {
@@ -39,7 +39,7 @@ class AhmedSheikh extends Developer {
   }
 
   superpower() { return "Turning ☕ into working websites"; }
-  mission()    { return "Ship code that actually helps people 🚀"; }
+  mission()    { return "Ship code that helps real people 🚀"; }
   funFact()    { return "My bugs have bugs — I love fixing both! 😄"; }
 }
 
@@ -51,18 +51,19 @@ me.start(); // always running...
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://fs.buttercms.com/resize=width:940/I351RMgSjC6YAj1Ra8pE" width="190px"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/240560969?v=4" width="185px" style="border-radius: 20px;"/>
 
 I'm **Ahmed Sadiq Sheikh** — a self-driven **Web Developer** from **Karachi, Pakistan** who genuinely loves building things on the web.
 
-I don't just write code — I craft digital experiences that actually work.
+I don't just write code — I craft digital experiences that actually work. Every project is a mission, every bug is a puzzle worth solving.
 
-- 🔭 &nbsp;Working on **awesome web projects**
+- 🔭 &nbsp;Currently working on **awesome web projects**
 - 🌱 &nbsp;Leveling up in **modern JavaScript & web tech**
 - 🏫 &nbsp;Studying **Computer Science @ Aptech**
 - 📫 &nbsp;**ahmedsadiq2505b@aptechsite.net**
+- 📸 &nbsp;Instagram: **[@ahmed_sadiq56](https://www.instagram.com/ahmed_sadiq56/)**
+- 💼 &nbsp;LinkedIn: **[Ahmed Sheikh](https://www.linkedin.com/in/ahmedsheikh18/)**
 - ⚡ &nbsp;Fun fact: **My bugs have bugs — I love fixing both!**
-- 🎯 &nbsp;Goal: **Build things that actually matter**
 
 <br clear="right"/>
 
@@ -91,7 +92,7 @@ I don't just write code — I craft digital experiences that actually work.
 
 ---
 
-## 📊 GitHub Command Center
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -101,13 +102,13 @@ I don't just write code — I craft digital experiences that actually work.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsadiqsheikh&layout=compact&theme=merko&hide_border=true&langs_count=8" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsadiqsheikh&layout=compact&theme=merko&hide_border=true&langs_count=8" width="42%"/>
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -157,13 +158,15 @@ I don't just write code — I craft digital experiences that actually work.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahmedsadiqsheikh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedsadiqsheikh)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-ahmedsadiq2505b-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsadiq2505b@aptechsite.net)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsadiq2505b@aptechsite.net)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsadiqsheikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Sheikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsheikh18/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-ahmed__sadiq56-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmed_sadiq56/)
 
 <br/>
 
-> ⭐ **If my projects helped you — drop a star. It fuels the grind!** ⭐
+> ⭐ **Star my repos if they helped you — it fuels the grind!** ⭐
 
 </div>
 
@@ -171,14 +174,14 @@ I don't just write code — I craft digital experiences that actually work.
 
 <div align="center">
 
-<img src="https://fs.buttercms.com/resize=width:940/I351RMgSjC6YAj1Ra8pE" width="75px" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/u/240560969?v=4" width="80px" style="border-radius:50%"/>
 
 <br/>
 
-**Ahmed Sadiq Sheikh** · Developer by passion · Problem-solver by nature
+**Ahmed Sadiq Sheikh** — Developer by passion · Problem-solver by nature
 
-*Karachi, Pakistan 🇵🇰 · Made with 💻 + ☕ + ❤️*
+*Karachi, Pakistan 🇵🇰 · Built with 💻 + ☕ + ❤️*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003320,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d1a,70:00a854,100:0d1117&height=100&section=footer"/>
 
 </div>
