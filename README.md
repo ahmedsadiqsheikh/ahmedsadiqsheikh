@@ -53,7 +53,7 @@ me.start(); // always running...
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://avatars.githubusercontent.com/u/240560969?v=4" width="185px" style="border-radius: 20px;"/>
+<img align="right" src="ahmed.jpeg" width="185px" style="border-radius: 20px;"/>
 
 I'm **Ahmed Sadiq Sheikh** — a self-driven **Full Stack Developer** from **Karachi, Pakistan** who genuinely loves building things on the web.
 
