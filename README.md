@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d1a,70:00a854,100:0d1117&height=220&section=header&text=Ahmed%20Sheikh&fontSize=60&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=⚡%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Karachi%2C%20Pakistan%20🇵🇰&descAlignY=65&descSize=16&descAlign=50&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=🔥+Passionate+Programmer+from+Pakistan+🇵🇰;💻+PHP+%7C+Laravel+%7C+MySQL+%7C+SQL+Server;🚀+C%23+%7C+.NET+%7C+Angular+%7C+React+%7C+TypeScript;🧠+Builder+%7C+Problem+Solver+%7C+Innovator;⚡+Always+Learning.+Always+Growing!)](https://github.com/ahmedsadiqsheikh)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=🔥+Passionate+Programmer+from+Pakistan+🇵🇰;💻+PHP+%7C+Laravel+%7C+MySQL+%7C+SQL+Server;🚀+C%23+%7C+.NET+%7C+Angular+%7C+React+%7C+TypeScript;☁️+Node.js+%7C+MongoDB+%7C+Microsoft+Azure;🧠+Builder+%7C+Problem+Solver+%7C+Innovator;⚡+Always+Learning.+Always+Growing!)](https://github.com/ahmedsadiqsheikh)
 
 <br/>
 
@@ -33,8 +33,9 @@ class AhmedSheikh extends Developer {
   get skills() {
     return {
       frontend : ["HTML5", "CSS3", "JavaScript", "TypeScript", "Bootstrap", "Angular", "React"],
-      backend  : ["PHP", "Laravel", "C#", ".NET / ASP.NET"],
-      database : ["MySQL", "SQL Server"],
+      backend  : ["PHP", "Laravel", "Node.js", "C#", ".NET / ASP.NET"],
+      database : ["MySQL", "SQL Server", "MongoDB"],
+      cloud    : ["Microsoft Azure"],
       tools    : ["Git", "GitHub", "VS Code", "Visual Studio", "Postman"],
     };
   }
@@ -59,7 +60,7 @@ I'm **Ahmed Sadiq Sheikh** — a self-driven **Full Stack Developer** from **Kar
 I don't just write code — I craft digital experiences that actually work. Every project is a mission, every bug is a puzzle worth solving.
 
 - 🔭 &nbsp;Currently working on **full-stack projects with PHP/Laravel and .NET**
-- 🌱 &nbsp;Leveling up in **TypeScript, Angular & React**
+- 🌱 &nbsp;Leveling up in **TypeScript, Angular, React, Node.js & Microsoft Azure**
 - 🏫 &nbsp;Studying **Computer Science @ Aptech**
 - 📫 &nbsp;**ahmedsadiq2505b@aptechsite.net**
 - 📸 &nbsp;Instagram: **[@ahmed_sadiq56](https://www.instagram.com/ahmed_sadiq56/)**
@@ -87,11 +88,16 @@ I don't just write code — I craft digital experiences that actually work. Ever
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
