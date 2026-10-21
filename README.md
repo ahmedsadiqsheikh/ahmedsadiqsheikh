@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d1a,70:00a854,100:0d1117&height=220&section=header&text=Ahmed%20Sheikh&fontSize=60&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=⚡%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Karachi%2C%20Pakistan%20🇵🇰&descAlignY=65&descSize=16&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003d1a,70:00a854,100:0d1117&height=220&section=header&text=Ahmed%20Sheikh&fontSize=60&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=⚡%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Karachi%2C%20Pakistan%20🇵🇰&descAlignY=65&descSize=16&descAlign=50&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=🔥+Passionate+Programmer+from+Pakistan+🇵🇰;💻+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Bootstrap;🚀+Turning+Coffee+into+Code+Every+Day!;🧠+Builder+%7C+Problem+Solver+%7C+Innovator;⚡+Always+Learning.+Always+Growing!)](https://github.com/ahmedsadiqsheikh)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=🔥+Passionate+Programmer+from+Pakistan+🇵🇰;💻+PHP+%7C+Laravel+%7C+MySQL+%7C+SQL+Server;🚀+C%23+%7C+.NET+%7C+Angular+%7C+React+%7C+TypeScript;🧠+Builder+%7C+Problem+Solver+%7C+Innovator;⚡+Always+Learning.+Always+Growing!)](https://github.com/ahmedsadiqsheikh)
 
 <br/>
 
@@ -32,9 +32,10 @@ class AhmedSheikh extends Developer {
 
   get skills() {
     return {
-      frontend : ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
-      backend  : ["PHP", "MySQL"],
-      tools    : ["Git", "GitHub", "VS Code"],
+      frontend : ["HTML5", "CSS3", "JavaScript", "TypeScript", "Bootstrap", "Angular", "React"],
+      backend  : ["PHP", "Laravel", "C#", ".NET / ASP.NET"],
+      database : ["MySQL", "SQL Server"],
+      tools    : ["Git", "GitHub", "VS Code", "Visual Studio", "Postman"],
     };
   }
 
@@ -53,12 +54,12 @@ me.start(); // always running...
 
 <img align="right" src="https://avatars.githubusercontent.com/u/240560969?v=4" width="185px" style="border-radius: 20px;"/>
 
-I'm **Ahmed Sadiq Sheikh** — a self-driven **Web Developer** from **Karachi, Pakistan** who genuinely loves building things on the web.
+I'm **Ahmed Sadiq Sheikh** — a self-driven **Full Stack Developer** from **Karachi, Pakistan** who genuinely loves building things on the web.
 
 I don't just write code — I craft digital experiences that actually work. Every project is a mission, every bug is a puzzle worth solving.
 
-- 🔭 &nbsp;Currently working on **awesome web projects**
-- 🌱 &nbsp;Leveling up in **modern JavaScript & web tech**
+- 🔭 &nbsp;Currently working on **full-stack projects with PHP/Laravel and .NET**
+- 🌱 &nbsp;Leveling up in **TypeScript, Angular & React**
 - 🏫 &nbsp;Studying **Computer Science @ Aptech**
 - 📫 &nbsp;**ahmedsadiq2505b@aptechsite.net**
 - 📸 &nbsp;Instagram: **[@ahmed_sadiq56](https://www.instagram.com/ahmed_sadiq56/)**
@@ -77,16 +78,27 @@ I don't just write code — I craft digital experiences that actually work. Ever
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
